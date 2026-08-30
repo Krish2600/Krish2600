@@ -4,11 +4,7 @@
 Backend & Software Engineer | Distributed Systems • Real-Time Applications • System Design
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Krish2600">
-    <img src="https://komarev.com/ghpvc/?username=krish2600&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
+
 
 ---
 
