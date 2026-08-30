@@ -149,18 +149,21 @@ I'm currently deepening my understanding of **how production-grade systems are d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=krish2600&show_icons=true&hide_border=true&theme=transparent"
-    alt="Krish's GitHub Stats"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish2600&layout=compact&hide_border=true&theme=transparent"
-    alt="Krish's Top Languages"
-  />
+  <a href="https://github.com/Krish2600">
+    <img
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api?username=Krish2600&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true"
+      alt="Krish's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/Krish2600">
+    <img
+      width="41%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish2600&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&langs_count=6"
+      alt="Krish's Top Languages"
+    />
+  </a>
 </p>
-
 ---
 ### 🧩 LeetCode
 
