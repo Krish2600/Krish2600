@@ -165,11 +165,16 @@ I'm currently deepening my understanding of **how production-grade systems are d
   </a>
 </p>
 ---
+---
+
 ### 🧩 LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/krish2600">
-    <img src="https://leetcard.jacoblin.cool/krish2600?theme=dark&font=Baloo%202&ext=heatmap" alt="Krish Sharma's LeetCode Stats" />
+    <img
+      src="https://leetcard.jacoblin.cool/krish2600?theme=dark&font=Baloo%202&ext=heatmap"
+      alt="Krish Sharma's LeetCode Stats"
+    />
   </a>
 </p>
 
