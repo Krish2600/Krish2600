@@ -149,12 +149,16 @@ I'm currently deepening my understanding of **how production-grade systems are d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krish2600&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish2600&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish2600&hide_border=true&theme=transparent" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=krish2600&show_icons=true&hide_border=true&theme=transparent"
+    alt="Krish's GitHub Stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish2600&layout=compact&hide_border=true&theme=transparent"
+    alt="Krish's Top Languages"
+  />
 </p>
 
 ---
