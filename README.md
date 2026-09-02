@@ -37,6 +37,9 @@ Currently focused on:
   <a href="https://github.com/Krish2600/distributed-job-orchestrator">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="http://jobflowkrish.duckdns.org:3000">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
