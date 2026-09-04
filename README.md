@@ -24,16 +24,16 @@ Currently focused on:
 * 💻 Data Structures & Algorithms in C++
 
 ---
-
 ### 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
 
-<h3 align="center">Distributed Job Orchestrator</h3>
+<td width="50%" align="center">
 
-<p align="center">
+<h3>Distributed Job Orchestrator</h3>
+
+<p>
   <a href="https://github.com/Krish2600/distributed-job-orchestrator">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -42,23 +42,21 @@ Currently focused on:
   </a>
 </p>
 
-<p align="center">
+<p>
 A distributed system for submitting, scheduling and executing background jobs across multiple workers.
 </p>
 
-<p align="center">
+<p>
 <b>Docker • Redis • PostgreSQL • Distributed Systems</b>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<td width="50%">
+<h3>CodeCraft Studio</h3>
 
-<h3 align="center">CodeCraft Studio</h3>
-
-<p align="center">
+<p>
   <a href="https://github.com/Krish2600/codecraft-studio">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -67,15 +65,16 @@ A distributed system for submitting, scheduling and executing background jobs ac
   </a>
 </p>
 
-<p align="center">
+<p>
 A browser-based code editor designed for writing and executing code through a real-time development environment.
 </p>
 
-<p align="center">
+<p>
 <b>React • Node.js • WebSockets • Backend Development</b>
 </p>
 
 </td>
+
 </tr>
 </table>
 
