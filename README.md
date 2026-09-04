@@ -54,11 +54,16 @@ A distributed system for submitting, scheduling and executing background jobs ac
 
 <td width="50%">
 
+<td width="50%">
+
 <h3 align="center">CodeCraft Studio</h3>
 
 <p align="center">
   <a href="https://github.com/Krish2600/codecraft-studio">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://codecraft-nhvw.onrender.com/">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
