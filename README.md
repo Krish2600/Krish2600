@@ -14,6 +14,8 @@ I'm a Computer Science student focused on building **scalable backend systems, d
 
 I enjoy understanding how systems work under the hood — from **concurrency and networking to databases, caching, messaging, and system architecture**.
 
+Alongside backend engineering, I also explore **AI/ML**, having built practical applications that integrate **machine learning, intelligent APIs, and modern software systems**.
+
 Currently focused on:
 
 * 🏗️ Distributed Systems & System Design
@@ -21,8 +23,8 @@ Currently focused on:
 * 🐳 Docker & Containerized Applications
 * 🗄️ PostgreSQL, Redis & Database Design
 * 🔄 Message Queues & Asynchronous Systems
+* 🤖 AI/ML & Intelligent Applications
 * 💻 Data Structures & Algorithms in C++
-
 ---
 ### 🚀 Featured Projects
 
