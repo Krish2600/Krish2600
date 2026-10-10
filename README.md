@@ -3,6 +3,14 @@
 <h3 align="center">
 Backend & Software Engineer | Distributed Systems • Real-Time Applications • System Design
 </h3>
+\<p align="center">
+  \<a href="https://portfolio-roan-delta-35h5y5a69b.vercel.app/">
+    \<img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-2563EB?style=for-the-badge" alt="Visit My Portfolio" />
+  \</a>
+  \<a href="https://github.com/Krish2600">
+    \<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  \</a>
+\</p>
 
 
 
