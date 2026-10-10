@@ -2,15 +2,16 @@
 
 <h3 align="center">
 Backend & Software Engineer | Distributed Systems • Real-Time Applications • System Design
+  
 </h3>
-\<p align="center">
-  \<a href="https://portfolio-roan-delta-35h5y5a69b.vercel.app/">
-    \<img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-2563EB?style=for-the-badge" alt="Visit My Portfolio" />
-  \</a>
-  \<a href="https://github.com/Krish2600">
-    \<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  \</a>
-\</p>
+<p align="center">
+  <a href="https://portfolio-roan-delta-35h5y5a69b.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-2563EB?style=for-the-badge" alt="Visit My Portfolio" />
+  </a>
+  <a href="https://github.com/Krish2600">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
 
 
 
@@ -36,58 +37,72 @@ Currently focused on:
 ---
 ### 🚀 Featured Projects
 
+### 🚀 Featured Projects
+
 <table>
 <tr>
+<td width="50%" align="center" valign="top">
 
-<td width="50%" align="center">
+<h3>⚙️ Distributed Job Orchestrator</h3>
 
-<h3>Distributed Job Orchestrator</h3>
+<p>Fault-tolerant background job processing with distributed workers, automatic retries, and execution monitoring.</p>
+
+<p><b>C++ · Redis · PostgreSQL · Docker</b></p>
 
 <p>
-  <a href="https://github.com/Krish2600/distributed-job-orchestrator">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="http://jobflowkrish.duckdns.org:3000">
-    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+<a href="https://github.com/Krish2600/distributed-job-orchestrator"><img src="https://img.shields.io/badge/GitHub-View%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Distributed Job Orchestrator source"/></a>
 </p>
-
 <p>
-A distributed system for submitting, scheduling and executing background jobs across multiple workers.
-</p>
-
-<p>
-<b>Docker • Redis • PostgreSQL • Distributed Systems</b>
+<a href="http://jobflowkrish.duckdns.org:3000/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Distributed Job Orchestrator live demo"/></a>
 </p>
 
 </td>
+<td width="50%" align="center" valign="top">
 
-<td width="50%" align="center">
+<h3>💻 CodeCraft Studio</h3>
 
-<h3>CodeCraft Studio</h3>
+<p>A browser-based collaborative IDE featuring real-time code editing, shared cursors, and collaborative synchronization.</p>
+
+<p><b>React · TypeScript · Yjs · Socket.IO</b></p>
 
 <p>
-  <a href="https://github.com/Krish2600/codecraft-studio">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://codecraft-nhvw.onrender.com/">
-    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+<a href="https://github.com/Krish2600/codecraft-studio"><img src="https://img.shields.io/badge/GitHub-View%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CodeCraft Studio source"/></a>
 </p>
-
 <p>
-A browser-based code editor designed for writing and executing code through a real-time development environment.
-</p>
-
-<p>
-<b>React • Node.js • WebSockets • Backend Development</b>
+<a href="https://codecraft-nhvw.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CodeCraft Studio live demo"/></a>
 </p>
 
 </td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
 
+<h3>🌐 Developer Portfolio</h3>
+
+<p>My personal portfolio showcasing software engineering projects, technical skills, and my focus on backend development and distributed systems.</p>
+
+<p><b>Responsive Design · Animations · Software Engineering</b></p>
+
+<p>
+<a href="https://portfolio-roan-delta-35h5y5a69b.vercel.app/"><img src="https://img.shields.io/badge/Visit%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio"/></a>
+</p>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<h3>🧩 Explore All Projects</h3>
+
+<p>Explore my other work in compiler design, machine learning, real-time applications, and full-stack development.</p>
+
+<p><b>Distributed Systems · AI/ML · Full-Stack Development</b></p>
+
+<p>
+<a href="https://github.com/Krish2600?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a>
+</p>
+
+</td>
 </tr>
 </table>
-
 ---
 
 ### 🧠 What I'm Working On
