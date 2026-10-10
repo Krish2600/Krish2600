@@ -37,8 +37,6 @@ Currently focused on:
 ---
 ### 🚀 Featured Projects
 
-### 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
@@ -103,7 +101,7 @@ Currently focused on:
 </td>
 </tr>
 </table>
----
+
 
 ### 🧠 What I'm Working On
 
